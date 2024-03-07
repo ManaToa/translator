@@ -3,7 +3,7 @@
 Un traducteur entre anglais Américain et Britannique.
 
 Il a été fait dans le cadre d'un projet de certification FreeCodeCamp.
-- [Backend Development and Apis](https://www.freecodecamp.org/certification/Manatoa/back-end-development-and-apis)
+- [Backend Development and APIs](https://www.freecodecamp.org/certification/Manatoa/back-end-development-and-apis)
 - [Quality Assurance](https://www.freecodecamp.org/certification/Manatoa/quality-assurance-v7)
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/Manatoa/javascript-algorithms-and-data-structures)
 - [Build an American British Translator](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/american-british-translator)
